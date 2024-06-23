@@ -65,7 +65,7 @@ const course = {
 
 //course.courseInstructor
 
-const {courseInstructor: instructor} = course
+const {courseInstructor: instructor} = course    // destructuring of object.
 //console.log(courseInstructor);
 console.log(instructor);
 
